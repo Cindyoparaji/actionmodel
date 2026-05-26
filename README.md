@@ -1,3 +1,1 @@
-# actionmodel
-repository for testing AI
-the first lam 
+the first community lam 
